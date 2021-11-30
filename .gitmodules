@@ -5,8 +5,9 @@
 	datalad-url = https://github.com/OpenNeuroDatasets/ds000105.git
 [submodule "code"]
 	path = code
-	url = ./code
+	url = https://github.com/tkkuehn/demo-datalad-brainhack-code.git
 	datalad-id = da0c6ac7-6a5d-4d0a-a8ef-d0357b7db9b7
+	datalad-url = https://github.com/tkkuehn/demo-datalad-brainhack-code.git
 [submodule "outputs"]
 	path = outputs
 	url = ./outputs
