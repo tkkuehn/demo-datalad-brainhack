@@ -10,5 +10,6 @@
 	datalad-url = https://github.com/tkkuehn/demo-datalad-brainhack-code.git
 [submodule "outputs"]
 	path = outputs
-	url = ./outputs
+	url = https://github.com/tkkuehn/demo-datalad-brainhack-outputs.git
 	datalad-id = e92db8a9-b173-4785-8fb5-f28e37b1e1c1
+	datalad-url = https://github.com/tkkuehn/demo-datalad-brainhack-outputs.git
