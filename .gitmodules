@@ -7,3 +7,7 @@
 	path = code
 	url = ./code
 	datalad-id = da0c6ac7-6a5d-4d0a-a8ef-d0357b7db9b7
+[submodule "outputs"]
+	path = outputs
+	url = ./outputs
+	datalad-id = e92db8a9-b173-4785-8fb5-f28e37b1e1c1
